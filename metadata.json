@@ -1,0 +1,8 @@
+{
+  "name": "HT-TV",
+  "description": "Ứng dụng xem truyền hình HT TV tối ưu cho Android TV Box và Mobile hỗ trợ HLS, MPD DRM, remote control và thao tác cảm ứng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
